@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">YesNoGameApp</string>
+    <string name="text_about_me">Hi! My name is Aliaksei Charnevich, I\'m from Minsk and I\'m software developer. This is my first application, game just for fun and experience! Enjoy!\nIf you want to connect with me, for a job or something else you can do it via <b>EMAIL</b> or <b>LINKEDIN</b>, which shown on the bottom of screen.\nAlso you can see my <b>GitHub</b> or source code of this project</string>
+    <string name="text_email">Write email</string>
+    <string name="text_my_linkedin">LinkedIn page</string>
+    <string name="text_my_github">GitHub page</string>
+    <string name="text_my_gamegithub">GitHub Game page</string>
+    <string name="link_email">mailto:liaksiejka_dev@gmail.com</string>
+    <string name="link_my_linkedin">https://www.linkedin.com/in/aliaksei-charnevich-b875507a</string>
+    <string name="link_my_github">https://github.com/Liaksiejka1337</string>
+    <string name="link_my_gamegithub">https://github.com/Liaksiejka1337/yesnogame</string>
 </resources>

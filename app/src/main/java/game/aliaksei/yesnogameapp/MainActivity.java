@@ -3,7 +3,6 @@ package game.aliaksei.yesnogameapp;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.MenuItem;
 import android.view.View;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
@@ -12,7 +11,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
         findViewById(R.id.button_start).setOnClickListener(this);
         findViewById(R.id.button_settings).setOnClickListener(this);
         findViewById(R.id.button_exit).setOnClickListener(this);
